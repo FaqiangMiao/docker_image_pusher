@@ -1,7 +1,13 @@
-python:3.8.1
-
+rabbitmq:3-management
+nginx
+redis:6.2
+redis
+mysql:8.0
+emqx:5.6.1
 ###### 我的##############
 #nginx:1.21
+# python:3.8.1
+
 ##########################
 
 
