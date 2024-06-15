@@ -1,4 +1,11 @@
-nginx:1.21
+python:3.8.1
+
+###### 我的##############
+#nginx:1.21
+##########################
+
+
+#### 原有内容
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
