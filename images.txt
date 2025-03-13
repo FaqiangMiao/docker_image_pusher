@@ -4,6 +4,7 @@ redis:6.2
 redis
 mysql:8.0
 emqx:5.6.1
+ubuntu:20.04
 ###### 我的##############
 #nginx:1.21
 # python:3.8.1
