@@ -6,7 +6,8 @@ mysql:8.0
 emqx:5.6.1
 # arm64v8/ubuntu:20.04
 --platform=linux/arm64 ubuntu:20.04
-python:3.8.1-windowsservercore
+python:3.8.1-slim
+mcr.microsoft.com/windows/servercore:ltsc2019
 ###### 我的##############
 nginx:2
 python:3.8.1
