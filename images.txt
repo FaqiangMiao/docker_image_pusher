@@ -12,7 +12,7 @@ mcr.microsoft.com/windows/servercore:ltsc2019
 ###### 我的##############
 nginx:2
 python:3.8.1
-
+python:3.8.1-slim
 ##########################
 
 
